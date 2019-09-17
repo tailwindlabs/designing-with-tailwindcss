@@ -1,4 +1,4 @@
-# 1.8 Optimizing for Production
+# 2.4 Designing a Badge
 
 This lesson is built as a simple [Vue CLI](https://cli.vuejs.org/) app to better represent how a real-world project might be set up.
 
