@@ -1,4 +1,4 @@
-# 3.1 Laying out the elements with Flexbox
+# 3.2 Toggling the Navbar Links on Mobile
 
 This lesson is built as a simple [Vue CLI](https://cli.vuejs.org/) app to better represent how a real-world project might be set up.
 

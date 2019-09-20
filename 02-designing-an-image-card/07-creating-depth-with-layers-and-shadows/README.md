@@ -1,4 +1,4 @@
-# 1.8 Optimizing for Production
+# 2.7 Creating Depth with Layers and Shadows
 
 This lesson is built as a simple [Vue CLI](https://cli.vuejs.org/) app to better represent how a real-world project might be set up.
 
