@@ -1,18 +1,18 @@
 <template>
   <div id="app" class="antialiased text-gray-900">
-    <div class="bg-gray-200 min-h-screen">
-      <Navbar/>
+    <div class="bg-gray-800 min-h-screen p-32">
+      <AccountDropdown/>
     </div>
   </div>
 </template>
 
 <script>
-import Navbar from './components/Navbar'
+import AccountDropdown from './components/AccountDropdown'
 
 export default {
   name: 'app',
   components: {
-    Navbar
+    AccountDropdown
   },
 }
 </script>
