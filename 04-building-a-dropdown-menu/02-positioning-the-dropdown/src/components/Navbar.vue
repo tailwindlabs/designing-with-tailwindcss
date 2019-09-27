@@ -17,12 +17,18 @@
       <a href="#" class="block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800">List your property</a>
       <a href="#" class="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">Trips</a>
       <a href="#" class="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">Messages</a>
+      <AccountDropdown class="ml-6"/>
     </nav>
   </header>
 </template>
 
 <script>
+import AccountDropdown from './AccountDropdown'
+
 export default {
+  components: {
+    AccountDropdown,
+  },
   data() {
     return {
       isOpen: false,
