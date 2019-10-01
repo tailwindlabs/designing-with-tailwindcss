@@ -1,4 +1,4 @@
-# 3.3 Making the Navbar Responsive
+# 4.1 Styling the Basic Dropdown Elements
 
 This lesson is built as a simple [Vue CLI](https://cli.vuejs.org/) app to better represent how a real-world project might be set up.
 

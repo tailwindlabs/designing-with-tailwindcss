@@ -1,4 +1,4 @@
-# 3.3 Making the Navbar Responsive
+# 4.4 Adapting the Dropdown for Mobile
 
 This lesson is built as a simple [Vue CLI](https://cli.vuejs.org/) app to better represent how a real-world project might be set up.
 
