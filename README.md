@@ -7,5 +7,5 @@ Each finished course module has its own top-level folder, and each one of those 
 ## Tools used in the videos
 
 - [VS Code](https://code.visualstudio.com/) as the editor
-- [Sizzy](https://sizzy.co/) for the browser preview on the right-hand side
+- [Sizzy](https://a.paddle.com/v2/click/49831/104876?link=1947) for the browser preview on the right-hand side
 - [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) for intelligent auto-completion in VS Code
